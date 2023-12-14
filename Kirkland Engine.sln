@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kirkland Engine", "Kirkland Engine\Kirkland Engine.vcxproj", "{0FAF62A2-11E4-4327-A38A-5D226381D118}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{62698F58-5CD2-4B85-9AC2-14AD2AE88A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FAF62A2-11E4-4327-A38A-5D226381D118}.Debug|x64.ActiveCfg = Debug|x64
+		{0FAF62A2-11E4-4327-A38A-5D226381D118}.Debug|x64.Build.0 = Debug|x64
+		{0FAF62A2-11E4-4327-A38A-5D226381D118}.Release|x64.ActiveCfg = Release|x64
+		{0FAF62A2-11E4-4327-A38A-5D226381D118}.Release|x64.Build.0 = Release|x64
+		{62698F58-5CD2-4B85-9AC2-14AD2AE88A66}.Debug|x64.ActiveCfg = Debug|x64
+		{62698F58-5CD2-4B85-9AC2-14AD2AE88A66}.Debug|x64.Build.0 = Debug|x64
+		{62698F58-5CD2-4B85-9AC2-14AD2AE88A66}.Release|x64.ActiveCfg = Release|x64
+		{62698F58-5CD2-4B85-9AC2-14AD2AE88A66}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC592FF-5962-4C6C-A7F0-52CE672D7222}
+	EndGlobalSection
+EndGlobal
